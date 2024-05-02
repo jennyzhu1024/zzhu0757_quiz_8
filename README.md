@@ -12,6 +12,5 @@ To bring my work closer to these effects, I use loops and recursive functions to
 
 ![image](img/circlepacking.jpg)
 
-[Click here to view the link to the technical implementation of this code](https://codepen.io/jpdrecourt/pen/wGGKVb）
-
+[Click here to view the link to the technical implementation of this code](https://codepen.io/jpdrecourt/pen/wGGKVb)
 [Click here to view the link to the technical implementation of this code](https://generativeartistry.com/tutorials/circle-packing/)
