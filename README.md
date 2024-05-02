@@ -3,7 +3,7 @@
 To inspire my creativity, the piece I chose was Yayoi Kusama Pop Art. I want to include these polka dots art in our final group assignment project, because I think these polka dots, although repeated and single design, will bring different feelings under differentcombinations.
 Kusama's artistic style combined with P5.js programming can add a unique charm and creativity to my work, while also helping me improve my programming skills and artistic expression.
 Here are some of the works I Googled that were very inspiring to me. 
-![image](img/Yayoi Kusama artwork1.jpeg)
+![image](img/Yayoi Kusama artwork1.jpg)
 ![image](img/Yayoi Kusama artwork2.jpg)
 
 ## Coding Technique Exploration
